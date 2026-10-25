@@ -1,0 +1,4 @@
+PASSPHRASE.txt
+*.py
+*.bak
+.DS_Store
